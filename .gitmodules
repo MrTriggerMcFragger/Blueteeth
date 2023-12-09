@@ -1,0 +1,12 @@
+[submodule "speakerscan"]
+	path = speakerscan
+	url = https://github.com/BarakBinyamin/speakerscan.git
+[submodule "Blueteeth-Slave"]
+	path = Blueteeth-Slave
+	url = https://github.com/MrTriggerMcFragger/Blueteeth-Slave.git
+[submodule "Blueteeth-Master"]
+	path = Blueteeth-Master
+	url = https://github.com/MrTriggerMcFragger/Blueteeth-Master.git
+[submodule "Blueteeth-Internal-Network-Stack"]
+	path = Blueteeth-Internal-Network-Stack
+	url = https://github.com/MrTriggerMcFragger/Blueteeth-Internal-Network-Stack.git
