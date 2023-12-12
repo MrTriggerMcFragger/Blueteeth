@@ -10,3 +10,6 @@
 [submodule "Blueteeth-Internal-Network-Stack"]
 	path = Blueteeth-Internal-Network-Stack
 	url = https://github.com/MrTriggerMcFragger/Blueteeth-Internal-Network-Stack.git
+[submodule "Blueteeth-Terminal"]
+	path = Blueteeth-Terminal
+	url = https://github.com/Ali-Doge/Blueteeth-Terminal.git
