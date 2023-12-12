@@ -1,5 +1,5 @@
 # Blueteeth
-A2DP Multiplexer, a hardware solution to a software problem
+A2DP Splitter, a hardware solution to a software problem
 
 ## Table of contents
 - [Project Directories](#project-directories)
