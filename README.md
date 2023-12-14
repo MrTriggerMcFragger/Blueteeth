@@ -8,12 +8,12 @@ A2DP Splitter, a hardware solution to a software problem
 - [References & Kudos](#references--kudos)
 
 ## Project Directories
-| Name                                                               | Purpose                                       | 
-| :--                                                                | :--                                           |
-|[Blueteeth-Internal-Network-Stack](Blueteeth-Internal-Network-Stack)|                                               |
-|[Blueteeth-Master](Blueteeth-Master)                                |                                               |
-|[Blueteeth-Slave](Blueteeth-Slave)                                  |                                               |
-|[speakerscan](speakerscan)                                          |                                               |
+| Name                                                               | Purpose                                        | 
+| :--                                                                | :--                                            |
+|[Blueteeth-Internal-Network-Stack](Blueteeth-Internal-Network-Stack)|                                                |
+|[Blueteeth-Master](Blueteeth-Master)                                |                                                |
+|[Blueteeth-Slave](Blueteeth-Slave)                                  |                                                |
+|[speakerscan](speakerscan)                                          | Scans for speakers and relays info over serial |
 
 ```bash
 git clone https://github.com/BarakBinyamin/blueteeth.git        # Download this repo locally
