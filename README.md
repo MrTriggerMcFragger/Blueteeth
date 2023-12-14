@@ -32,7 +32,14 @@ cd blueteeth; git submodule update --init --remote --recursive  # Pull all the s
 >*Note: Information about an individual Arduino sketch's dependencies can be found on that sketch's repository page.*
 
 ### Wiring
->TBD
+
+#### Data Plane
+![Data Plane Wiring Diagram](https://github.com/TragerZW/Blueteeth/blob/main/docs/img/Data%20Plane.png?raw=true)
+
+#### Control Plane
+![Control Plane Wiring Diagram](https://github.com/TragerZW/Blueteeth/blob/main/docs/img/Control%20Plane.png?raw=true)
+
+>*Note: All pins in the wiring diagram are correct (they were not chosen arbitrarily to demonstrate the concept). The ESP32 board shown in the diagrams is the Teyleten Robot ESP32-Wroom Development board. *
 
 ## References & Kudos
 The following are the original contributors to the project:
