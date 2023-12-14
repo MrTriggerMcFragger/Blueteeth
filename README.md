@@ -35,7 +35,7 @@ Ensure that the [Blueteeth-Internal-Network-Stack](Blueteeth-Internal-Network-St
 
 ## References & Kudos
 The following are the original contributors to the project:
-- Ali Stambayev ()
-- Barak Binyaman ()
-- James Ehrlinger ()
-- Zachary Trager MacDonald ()
+- Ali Stambayev ([Ali Doge](https://github.com/Ali-Doge/))
+- Barak Binyaman ([BarakBinyamin](https://github.com/BarakBinyamin/))
+- James Ehrlinger ([jvEhrlinger](https://github.com/jvEhrlinger/))
+- Zachary Trager MacDonald ([TragerZW](https://github.com/TragerZW/))
