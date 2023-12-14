@@ -1,8 +1,11 @@
 # Blueteeth
 The Blueteeth system is an A2DP broadcasting solution. This device takes in audio data from a singular source (i.e. a phone or computer), and broadcasts that audio to multiple Bluetooth speakers simultaneously.
 
-[![Video Demo](http://img.youtube.com/vi/luHCMfh11go/0.jpg)](https://youtu.be/luHCMfh11go)
-
+<div align="center">
+  <strong><ins> Video Presentation</ins></strong>
+  <br/>
+  <a href="https://youtu.be/luHCMfh11go"><img src="http://img.youtube.com/vi/luHCMfh11go/0.jpg" alt="Video Presentation"></a>
+</div>
 
 ## Table of contents
 - [Project Directories](#project-directories)
