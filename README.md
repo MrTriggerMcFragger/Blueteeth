@@ -29,14 +29,9 @@ The Blueteeth system is an A2DP broadcasting solution. This device takes in audi
 git clone https://github.com/BarakBinyamin/blueteeth.git        # Download this repo locally
 cd blueteeth; git submodule update --init --remote --recursive  # Pull all the submodules too
 ```
+>*Note: Information about an individual Arduino sketch's dependencies can be found on that sketch's repository page.*
+
 ### Wiring
->TBD
-
-### Dependencies
-Ensure that the [Blueteeth-Internal-Network-Stack](Blueteeth-Internal-Network-Stack) is in your Arduino libraries folder... 
->TBD
-
-## Theory
 >TBD
 
 ## References & Kudos
