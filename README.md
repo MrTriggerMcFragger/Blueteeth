@@ -16,11 +16,12 @@ The Blueteeth system is an A2DP broadcasting solution. This device takes in audi
 ## Project Directories
 | Name                                                               | Purpose                                        | 
 | :--                                                                | :--                                            |
-|[Blueteeth-Internal-Network-Stack](https://github.com/TragerZW/Blueteeth-Internal-Network-Stack)| Library used by both the master & slave devices that defines communications between Blueteeth devices. 
-|[Blueteeth-Master](https://github.com/TragerZW/Blueteeth-Master)                                | An Arduino sketch for the master device which receives data from an audio source (i.e. a phone or computer), and relays that data to all of the slave nodes in the network over UART. 
-| [Blueteeth-Slave](https://github.com/TragerZW/Blueteeth-Slave)  | An Arduino sketch for the slave nodes which receive audio data from the master node over UART, and stream that audio data to an audio sink (i.e. a Bluetooth speaker).  
-|[Blueteeth-Terminal](https://github.com/Ali-Doge/Blueteeth-Terminal/tree/f47892bef948bcc814911b3085bee7de4962b158) |  
-|[Blueteeth-Scanner](https://github.com/BarakBinyamin/speakerscan)                                          | An Arduino sketch for a device which scans for speakers and relays this information over UART |
+| [Blueteeth-Internal-Network-Stack](https://github.com/TragerZW/Blueteeth-Internal-Network-Stack) | An Arduino library used by both the master & slave nodee devices that defines communications between the two. 
+| [Blueteeth-Master](https://github.com/TragerZW/Blueteeth-Master) | An Arduino sketch for the master node device which receives data from an audio source (i.e. a phone or computer), and relays that data to all of the slave nodes in the network over UART. 
+| [Blueteeth-Slave](https://github.com/TragerZW/Blueteeth-Slave)  | An Arduino sketch for the slave node devices which receive audio data from the master node over UART, and stream that audio data to an audio sink (i.e. a Bluetooth speaker).  
+| [Blueteeth-Terminal](https://github.com/Ali-Doge/Blueteeth-Terminal/tree/f47892bef948bcc814911b3085bee7de4962b158) | An Arduino sketch for the Bluetooth serial terminal device which acts as a control interface between the master node and the audio source (i.e. a phone or computer). [NOT FULLY INTEGRATED]  
+| [Blueteeth-Scanner](https://github.com/BarakBinyamin/speakerscan)                                          | An Arduino sketch for a device which scans for speakers and relays this information over UART. [NOT FULLY INTEGRATED] 
+|
 
 ## Getting Started
 
